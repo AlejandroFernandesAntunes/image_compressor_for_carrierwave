@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name        = 'image_compressor_for_carrierwave'
-  s.version     = '1.0.7'
-  s.date        = '2016-06-10'
+  s.version     = '1.0.8'
+  s.date        = '2016-12-12'
   s.summary     = "Image compressor to use with carrierwave uploaders"
   s.description = "A simple image compression gem"
   s.authors     = ["Alejandro Fernandes Antunes"]
