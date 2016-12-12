@@ -25,3 +25,5 @@ passing parameters to encoders only used for the jpeg compression:
 ```ruby
 process optimize: [{ verbose: false, quality: 65 }]
 ```
+
+Won't process images smaller than 500KB or as established in the ENV SKIP_COMPRESSION_IMAGE_FILE_IN_KB.
